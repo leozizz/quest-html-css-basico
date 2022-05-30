@@ -1,0 +1,28 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+    background: #efe8fa;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.tabelas {
+    margin: 15px;
+    padding: 10px;
+    width: 300px;
+    height: 100px;
+}
+
+.produtos {
+    background-color: #424250;
+    color: white;
+}
+
+.cabecalho-moda {
+    background-color: #BB96FC;
+}
+
+.cabecalho-casa {
+    background-color: #00C4B4;
+}
